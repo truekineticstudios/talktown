@@ -24,8 +24,8 @@
 ## 📅 Release Info
 
 - **Expected Launch:** January 2026  
-- **Current Status:** Beta  
-- **Maturity Rating:** Moderate • Ages 13+  
+- **Current Status:** BETA Testing  
+- **Maturity Rating:** Moderate • Ages 13+ (Present)
 - **Game Type:** Social Hangout
 
 ---
@@ -34,13 +34,13 @@
 
 | Feature        | Supported |
 |----------------|-----------|
-| Voice Chat     | ✅        |
-| Camera         | ✅        |
-| VR             | ✅        |
-| Console        | ✅        |
-| PC             | ✅        |
-| Tablet         | ✅        |
-| Mobile Phone   | ✅        |
+| Voice Chat     | +         |
+| Camera         | +         |
+| VR             | +         |
+| Console        | +         |
+| PC             | +         |
+| Tablet         | +         |
+| Mobile Phone   | +         |
 
 ---
 
