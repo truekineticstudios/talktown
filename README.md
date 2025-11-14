@@ -4,7 +4,7 @@
 **Studio:** True Kinetic Studios  
 **Co-Studio:** Mo@n Studios  
 **Publisher:** True Kinetic Professional  
-**Test Services:** True Kinetic STAFF  
+**Test Services:** True Kinetic STAFF and FNTV Studios 
 **Platform:** Roblox  
 **Language:** English  
 **Target Audience:** Global • Ages 13+
@@ -18,13 +18,14 @@
 
 - **Builder:** Leo_MessiRealGoat  
 - **VFX, Animation, Scripting, GUI, Lighting:** hurgtb0610
+- **Tester:** FNTV Studios
 
 ---
 
 ## 📅 Release Info
 
 - **Expected Launch:** January 2026  
-- **Current Status:** BETA Testing  
+- **Current Status:** BETA Public  
 - **Maturity Rating:** Moderate • Ages 13+ (Present)
 - **Game Type:** Social Hangout
 
@@ -62,3 +63,8 @@ TalkTown welcomes players from all around the world. Whether you're here to soci
 
 Follow True Kinetic Studios for updates, sneak peeks, and developer logs as we prepare for the full launch in 2026.
 
+---
+
+## 🎮 New Ally Studio!
+
+FNTV STUDIOS New Game Developement on True Kinetic Studios new contents will be made collaboratively!
